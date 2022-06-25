@@ -1,4 +1,4 @@
-# project-management
+# Project-management
 
 #A Project management app based on MERN STACK.
 Technology used :
